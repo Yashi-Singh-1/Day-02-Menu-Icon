@@ -89,6 +89,6 @@ cd menu-icon-toggle
 <h2 id="contact">Contact Information</h2>
 <p>If you have any questions or feedback, feel free to contact me:</p>
 <ul>
-    <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/yashi-singh-b4143a246" target="_blank">Yashi Singh</a></li>
+    <li><strong>LinkedIn:</strong> Yashi Singh (www.linkedin.com/in/yashi-singh-b4143a246)</li>
     <li><strong>GitHub:</strong> <a href="https://github.com/Yashi-Singh-1" target="_blank">Yashi Singh</a></li>
 </ul>
