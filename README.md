@@ -30,7 +30,7 @@
 <h3>Installation</h3>
 <ol>
     <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/menu-icon-toggle.git
+        <pre><code>git clone https://github.com/Yashi-Singh-1/Day-02-Menu-Icon.git
 cd menu-icon-toggle
 </code></pre>
     </li>
@@ -84,7 +84,7 @@ cd menu-icon-toggle
 <p>This project is inspired by the animated menu icon example from <a href="https://100dayscss.com/days/2/" target="_blank">100 Days CSS</a>.</p>
 
 <h2 id="license">License</h2>
-<p>This project is licensed under the MIT <a href="https://github.com/Yashi-Singh-1/Day-1-CSS-Challenge?tab=MIT-1-ov-file">License</a>. You are free to use, modify, and distribute this project as you see fit.</p>
+<p>This project is licensed under the MIT <a href="https://github.com/Yashi-Singh-1/Day-1-CSS-Challenge?tab=MIT-1-ov-file](https://github.com/Yashi-Singh-1/Day-02-Menu-Icon?tab=MIT-1-ov-file">License</a>. You are free to use, modify, and distribute this project as you see fit.</p>
 
 <h2 id="contact">Contact Information</h2>
 <p>If you have any questions or feedback, feel free to contact me:</p>
